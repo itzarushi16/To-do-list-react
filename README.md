@@ -3,9 +3,13 @@ Welcome to the To-Do List React Application! This project is a fully functional 
 
 Features
 📋 Add Tasks: Add new tasks to your to-do list.
+
 ✅ Mark Tasks as Completed: Mark tasks as done once completed.
+
 🗑️ Delete Tasks: Remove tasks from the list.
+
 🎨 User-Friendly Design: Clean and minimal interface.
+
 🔄 Dynamic Updates: Real-time updates using React's state and component structure.
 
 Prerequisites for Running the Project
